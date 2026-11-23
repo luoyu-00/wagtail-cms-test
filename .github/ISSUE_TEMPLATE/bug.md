@@ -3,8 +3,8 @@
 - 系统：Wagtail 8.1 / Django 6.1.3
 - 地址：http://127.0.0.1:8001/admin/
 - 数据库：SQLite（本地 runserver）
-- 浏览器：Chrome ____
-- 账号：____
+- 浏览器：Microsoft Edge 158.0.4370.33（Chromium 内核）
+- 账号：admin / Admin@123456
 
 ## 前置条件
 
